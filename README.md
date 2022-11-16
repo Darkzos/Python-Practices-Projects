@@ -1,3 +1,5 @@
-# Ejercicio-4-
-Ejercicio 4 OpenBootcamp introducción a la programación
-Este es el ejercicio de introducción a la programación de OpenBootcamp "Sentencias de control"
+# Python Practice Projects-
+
+This repository will have all my own Python Practices Projects where I'll prove my skills and knowledge adquired meanwhile I study by myself.
+
+
